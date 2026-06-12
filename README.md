@@ -91,8 +91,7 @@ https://yourusername.github.io/apexplanet-task2-himabindu/
 
 ## 💻 GitHub Repository
 
-https://github.com/yourusername/apexplanet-task2-himabindu
-
+https://github.com/himabindu20112005-pixel/apexplanet-task2
 ---
 
 ## 👩‍💻 Author
@@ -101,9 +100,7 @@ https://github.com/yourusername/apexplanet-task2-himabindu
 
 Aspiring Software Engineer
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
+GitHub: https://github.com/himabindu20112005-pixel
 
 ---
 
