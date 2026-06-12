@@ -85,7 +85,7 @@ Through this project, I learned:
 
 ## 🔗 Live Demo
 
-https://yourusername.github.io/apexplanet-task2-himabindu/
+https://himabindu20112005-pixel.github.io/apexplanet-task2/
 
 ---
 
